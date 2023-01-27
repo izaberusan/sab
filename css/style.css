@@ -1,0 +1,22 @@
+
+		body 
+		{
+			background-color:#F8F0C6 ;
+		}
+		h3
+		{
+			color:  #21CC36 ;
+		}
+		p 
+		{
+			color: #16A467;
+		}
+		hr 
+		{
+			width: 200;
+			border-style: none;
+			border-top-style: dotted;
+			border-color: whitesmoke;
+			border-width: 5px;
+
+		}
